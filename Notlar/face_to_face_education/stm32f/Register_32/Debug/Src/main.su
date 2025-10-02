@@ -1,0 +1,5 @@
+../Src/main.c:31:6:delay	16	static
+../Src/main.c:35:6:gpioWritePin	16	static
+../Src/main.c:47:6:toggle	24	static
+../Src/main.c:55:6:writePin	24	static
+../Src/main.c:67:5:main	24	static

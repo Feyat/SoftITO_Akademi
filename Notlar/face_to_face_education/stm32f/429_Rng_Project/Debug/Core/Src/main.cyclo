@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/main.c:72:6:EXTI_CALLBACK_SET	1
+../Core/Src/main.c:80:6:EXTI_CALLBACK_RESET	1
+../Core/Src/main.c:88:6:EXTI0_IRQHandler	1
+../Core/Src/main.c:92:6:EXTI2_IRQHandler	1
+../Core/Src/main.c:98:5:main	1
+../Core/Src/main.c:187:6:SystemClock_Config	3
+../Core/Src/main.c:234:13:MX_RNG_Init	2
+../Core/Src/main.c:263:6:Error_Handler	1

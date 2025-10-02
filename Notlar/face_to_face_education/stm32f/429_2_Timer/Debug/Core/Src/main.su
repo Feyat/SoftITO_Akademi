@@ -1,0 +1,8 @@
+../Core/Src/main.c:54:6:delay	16	static
+../Core/Src/main.c:59:6:Input	32	static
+../Core/Src/main.c:69:6:Output	32	static
+../Core/Src/main.c:78:6:DHT11_Init	8	static
+../Core/Src/main.c:102:5:main	16	static
+../Core/Src/main.c:153:6:SystemClock_Config	88	static
+../Core/Src/main.c:195:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:236:6:Error_Handler	4	static,ignoring_inline_asm
