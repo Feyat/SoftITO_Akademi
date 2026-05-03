@@ -1,4 +1,4 @@
-# SoftITO Akademi — Gömülü Yazılım Geliştirici Eğitimi
+# SoftITO Akademi — Gömülü Yazılım Geliştiricisi Eğitimi
 
 <div align="center">
 
