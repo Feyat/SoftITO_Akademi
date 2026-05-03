@@ -43,7 +43,7 @@
 | **Toplam Süre** | 320 Saat |
 | **Durum** |  Başarıyla Tamamlandı |
 
-Bu repository, **İstanbul Ticaret Odası** tarafından kurulan **SoftITO Yazılım-Bilişim Akademisi**'nin *Gömülü Sistemler ve Yazılımlar* programı kapsamında gerçekleştirilen tüm uygulamalı çalışmaları, ders notlarını, sınav projelerini ve bitirme makalesini barındırmaktadır.
+Bu repository, **İstanbul Ticaret Odası** tarafından kurulan **SoftITO Yazılım-Bilişim Akademisi**'nin *Gömülü Yazılım Geliştiricisi Eğitimi* programı kapsamında gerçekleştirilen tüm uygulamalı çalışmaları, ders notlarını, sınav projelerini ve bitirme makalesini barındırmaktadır.
 
 320 saatlik yoğun eğitim boyunca teorik bilgi ve sahada uygulamalı deneyim bir arada kazanılmıştır.
 
